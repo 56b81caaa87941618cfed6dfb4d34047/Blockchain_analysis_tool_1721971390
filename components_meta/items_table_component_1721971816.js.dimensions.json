@@ -1,0 +1,18 @@
+{
+    "id": "items_table_component-5a0edd7c-3f48-0f9d-963d-82382ec0433a",
+    "name": "items_table_component",
+    "type": "containerComponent",
+    "metadata": {},
+    "w": 7,
+    "h": 7,
+    "x": "50",
+    "y": "50",
+    "i": "__dropping-elem__",
+    "minW": 3,
+    "maxW": 12,
+    "minH": 1,
+    "moved": false,
+    "static": false,
+    "isDraggable": true,
+    "isResizable": true
+}
