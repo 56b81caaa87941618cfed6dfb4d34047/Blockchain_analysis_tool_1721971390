@@ -7,7 +7,7 @@
 Vue.component("items_table_component_1721971816", {
     template: `
     <section id="items-table-component" class="py-8 bg-white">
-        <h2 id="costs-title" class="text-lg font-semibold mb-5">PLACEHOLDER_ITEMS_TABLE_TITLE</h2>
+        <h2 id="costs-title" class="text-lg font-semibold mb-5">Blockchain Analysis Package</h2>
         <div id="costs-table-container" class="overflow-x-auto">
             <table id="costs-table" class="table-auto w-full text-sm">
                 <thead id="costs-table-header" class="sr-only" id="costs-table-header">
@@ -21,70 +21,70 @@ Vue.component("items_table_component_1721971816", {
                         <th scope="row" class="relative text-left font-normal px-4 py-5 first:rounded-l-lg last:rounded-r-lg after:w-px after:h-8 after:absolute after:right-0 after:top-1/2 after:-translate-y-1/2 group-hover:after:opacity-0 after:transition-opacity" id="costs-cell-description-1" :class="costsCellOneStyle">
                             <div class="font-semibold mb-0.5" id="costs-link-1">
                                 <a class="before:absolute before:inset-0 before:z-20 before:rounded-lg" href="details.html" >
-                                    PLACEHOLDER_ITEM_1
+                                    Node Monitoring
                                 </a>
                             </div>
-                            <p :class="costsDescriptionStyle" id="costs-description-1">PLACEHOLDER_ITEM_DESCRIPTION_1</p>
+                            <p :class="costsDescriptionStyle" id="costs-description-1">24/7 monitoring of blockchain nodes for uptime and performance</p>
                         </th>
                         <td class="relative font-semibold text-right px-4 py-5 first:rounded-l-lg last:rounded-r-lg w-[1%] after:content-['Details_->'] after:absolute after:inset-0 after:pr-4 after:flex after:items-center after:justify-end after:pointer-events-none after:rounded-lg after:font-medium after:tracking-normal after:whitespace-nowrap after:opacity-0 group-hover:after:opacity-100 after:transition" id="costs-cell-cost-1" :class="[detailsGradientStyle, detailsGradientButtonStyle]">
-                            <a class="group-hover:opacity-0 transition-opacity before:absolute before:inset-0 before:z-20 before:rounded-lg" href="details.html" tabindex="-1">PLACEHOLDER_ITEM_PRICE_1</a>
+                            <a class="group-hover:opacity-0 transition-opacity before:absolute before:inset-0 before:z-20 before:rounded-lg" href="details.html" tabindex="-1">$499/month</a>
                         </td>
                     </tr>
                     <tr class="group" :class="costsGradientStyle" id="costs-row-1" >
                         <th scope="row" class="relative text-left font-normal px-4 py-5 first:rounded-l-lg last:rounded-r-lg after:w-px after:h-8 after:absolute after:right-0 after:top-1/2 after:-translate-y-1/2 group-hover:after:opacity-0 after:transition-opacity" id="costs-cell-description-1" :class="costsCellOneStyle">
                             <div class="font-semibold mb-0.5" id="costs-link-1">
                                 <a class="before:absolute before:inset-0 before:z-20 before:rounded-lg" href="details.html" >
-                                    PLACEHOLDER_ITEM_2
+                                    Transaction Tracking
                                 </a>
                             </div>
-                            <p :class="costsDescriptionStyle" id="costs-description-1">PLACEHOLDER_ITEM_DESCRIPTION_2</p>
+                            <p :class="costsDescriptionStyle" id="costs-description-1">Trace transactions across blockchains with detailed insights</p>
                         </th>
                         <td class="relative font-semibold text-right px-4 py-5 first:rounded-l-lg last:rounded-r-lg w-[1%] after:content-['Details_->'] after:absolute after:inset-0 after:pr-4 after:flex after:items-center after:justify-end after:pointer-events-none after:rounded-lg after:font-medium after:tracking-normal after:whitespace-nowrap after:opacity-0 group-hover:after:opacity-100 after:transition" id="costs-cell-cost-1" :class="[detailsGradientStyle, detailsGradientButtonStyle]">
-                            <a class="group-hover:opacity-0 transition-opacity before:absolute before:inset-0 before:z-20 before:rounded-lg" href="details.html" tabindex="-1">PLACEHOLDER_ITEM_PRICE_2</a>
+                            <a class="group-hover:opacity-0 transition-opacity before:absolute before:inset-0 before:z-20 before:rounded-lg" href="details.html" tabindex="-1">$799/month</a>
                         </td>
                     </tr>
                     <tr class="group" :class="costsGradientStyle" id="costs-row-3">
                         <th scope="row" class="relative text-left font-normal px-4 py-5 first:rounded-l-lg last:rounded-r-lg" id="costs-cell-description-3">
                             <div class="font-semibold mb-0.5"  id="costs-link-3">
-                                <a class="before:absolute before:inset-0 before:z-20 before:rounded-lg" href="details.html">PLACEHOLDER_ITEM_3</a>
+                                <a class="before:absolute before:inset-0 before:z-20 before:rounded-lg" href="details.html">Smart Contract Auditing</a>
                             </div>
-                            <p :class="costsDescriptionStyle"  id="costs-description-3">PLACEHOLDER_ITEM_DESCRIPTION_3</p>
+                            <p :class="costsDescriptionStyle"  id="costs-description-3">Comprehensive auditing of smart contracts for security vulnerabilities</p>
                         </th>
                         <td class="relative font-semibold text-right px-4 py-5 first:rounded-l-lg last:rounded-r-lg w-[1%] after:content-['Details_->'] after:absolute after:inset-0 after:pr-4 after:flex after:items-center after:justify-end after:pointer-events-none after:rounded-lg after:font-medium after:tracking-normal after:whitespace-nowrap after:opacity-0 group-hover:after:opacity-100 after:transition" id="costs-cell-cost-3" :class="[detailsGradientStyle, detailsGradientButtonStyle]">
-                            <a class="group-hover:opacity-0 transition-opacity before:absolute before:inset-0 before:z-20 before:rounded-lg" href="details.html" tabindex="-1">PLACEHOLDER_ITEM_PRICE_3</a>
+                            <a class="group-hover:opacity-0 transition-opacity before:absolute before:inset-0 before:z-20 before:rounded-lg" href="details.html" tabindex="-1">$1299/month</a>
                         </td>
                     </tr>
                     <tr class="group" :class="costsGradientStyle" id="costs-row-4">
                         <th scope="row" class="relative text-left font-normal px-4 py-5 first:rounded-l-lg last:rounded-r-lg" id="costs-cell-description-4">
                             <div class="font-semibold mb-0.5"  id="costs-link-4">
-                                <a class="before:absolute before:inset-0 before:z-20 before:rounded-lg" href="details.html">PLACEHOLDER_ITEM_4</a>
+                                <a class="before:absolute before:inset-0 before:z-20 before:rounded-lg" href="details.html">Network Analytics</a>
                             </div>
-                            <p :class="costsDescriptionStyle"  id="costs-description-4">PLACEHOLDER_ITEM_DESCRIPTION_4</p>
+                            <p :class="costsDescriptionStyle"  id="costs-description-4">In-depth analysis of blockchain network data and metrics</p>
                         </th>
                         <td class="relative font-semibold text-right px-4 py-5 first:rounded-l-lg last:rounded-r-lg w-[1%] after:content-['Details_->'] after:absolute after:inset-0 after:pr-4 after:flex after:items-center after:justify-end after:pointer-events-none after:rounded-lg after:font-medium after:tracking-normal after:whitespace-nowrap after:opacity-0 group-hover:after:opacity-100 after:transition" id="costs-cell-cost-4" :class="[detailsGradientStyle, detailsGradientButtonStyle]">
-                            <a class="group-hover:opacity-0 transition-opacity before:absolute before:inset-0 before:z-20 before:rounded-lg" href="details.html" tabindex="-1">PLACEHOLDER_ITEM_PRICE_4</a>
+                            <a class="group-hover:opacity-0 transition-opacity before:absolute before:inset-0 before:z-20 before:rounded-lg" href="details.html" tabindex="-1">$999/month</a>
                         </td>
                     </tr>
                     <tr class="group" :class="costsGradientStyle" id="costs-row-5">
                         <th scope="row" class="relative text-left font-normal px-4 py-5 first:rounded-l-lg last:rounded-r-lg" id="costs-cell-description-5">
                             <div class="font-semibold mb-0.5"  id="costs-link-5">
-                                <a class="before:absolute before:inset-0 before:z-20 before:rounded-lg" href="details.html">PLACEHOLDER_ITEM_5</a>
+                                <a class="before:absolute before:inset-0 before:z-20 before:rounded-lg" href="details.html">Forensic Tracing</a>
                             </div>
-                            <p :class="costsDescriptionStyle"  id="costs-description-5">PLACEHOLDER_ITEM_DESCRIPTION_5</p>
+                            <p :class="costsDescriptionStyle"  id="costs-description-5">Trace origins of funds and investigate suspicious transactions</p>
                         </th>
                         <td class="relative font-semibold text-right px-4 py-5 first:rounded-l-lg last:rounded-r-lg w-[1%] after:content-['Details_->'] after:absolute after:inset-0 after:pr-4 after:flex after:items-center after:justify-end after:pointer-events-none after:rounded-lg after:font-medium after:tracking-normal after:whitespace-nowrap after:opacity-0 group-hover:after:opacity-100 after:transition" id="costs-cell-cost-5" :class="[detailsGradientStyle, detailsGradientButtonStyle]">
-                            <a class="group-hover:opacity-0 transition-opacity before:absolute before:inset-0 before:z-20 before:rounded-lg" href="details.html" tabindex="-1">PLACEHOLDER_ITEM_PRICE_5</a>
+                            <a class="group-hover:opacity-0 transition-opacity before:absolute before:inset-0 before:z-20 before:rounded-lg" href="details.html" tabindex="-1">$1499/month</a>
                         </td>
                     </tr>
                     <tr class="group" :class="costsGradientStyle" id="costs-row-6">
                         <th scope="row" class="relative text-left font-normal px-4 py-5 first:rounded-l-lg last:rounded-r-lg" id="costs-cell-description-6">
                             <div class="font-semibold mb-0.5"  id="costs-link-6">
-                                <a class="before:absolute before:inset-0 before:z-20 before:rounded-lg" href="details.html">PLACEHOLDER_ITEM_6</a>
+                                <a class="before:absolute before:inset-0 before:z-20 before:rounded-lg" href="details.html">Customized Reporting</a>
                             </div>
-                            <p :class="costsDescriptionStyle"  id="costs-description-6">PLACEHOLDER_ITEM_DESCRIPTION_6</p>
+                            <p :class="costsDescriptionStyle"  id="costs-description-6">Generate custom reports tailored to your analysis needs</p>
                         </th>
                         <td class="relative font-semibold text-right px-4 py-5 first:rounded-l-lg last:rounded-r-lg w-[1%] after:content-['Details_->'] after:absolute after:inset-0 after:pr-4 after:flex after:items-center after:justify-end after:pointer-events-none after:rounded-lg after:font-medium after:tracking-normal after:whitespace-nowrap after:opacity-0 group-hover:after:opacity-100 after:transition" id="costs-cell-cost-6" :class="[detailsGradientStyle, detailsGradientButtonStyle]">
-                            <a class="group-hover:opacity-0 transition-opacity before:absolute before:inset-0 before:z-20 before:rounded-lg" href="details.html" tabindex="-1">PLACEHOLDER_ITEM_PRICE_6</a>
+                            <a class="group-hover:opacity-0 transition-opacity before:absolute before:inset-0 before:z-20 before:rounded-lg" href="details.html" tabindex="-1">$299/month</a>
                         </td>
                     </tr>
                 </tbody>
@@ -93,7 +93,7 @@ Vue.component("items_table_component_1721971816", {
                         <th id="total-description" scope="row" class="relative text-left font-normal px-4 py-5">
                             <p id="total-description-text" class="italic" :class="costsTableFooterTotalDescriptionStyle">TOT in USD dollar</p>
                         </th>
-                        <td id="total-cost" class="relative font-semibold text-right text-base underline px-4 py-5 w-[1%]" :class="costsTableFooterTotalCostStyle"> PLACEHOLDER_ITEMS_TOTAL_PRICE</td>
+                        <td id="total-cost" class="relative font-semibold text-right text-base underline px-4 py-5 w-[1%]" :class="costsTableFooterTotalCostStyle"> $5394/month</td>
                     </tr>
                 </tfoot>
             </table>
